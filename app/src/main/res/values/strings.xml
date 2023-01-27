@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LAB1.5_InstagramLogin</string>
+    <string name="sign_up"><font>Dont have an account? </font><b>Sign up.</b></string>
+</resources>
